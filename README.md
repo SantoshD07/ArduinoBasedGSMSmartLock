@@ -4,6 +4,9 @@ This project aims at providing home security system based on GSM technology. It 
 
 To reduce vulnerability and to make the system more robust, it allows a user to set a password (key code) that will unlock the lock, as this code is known only by authorized personnel, There is a very less probability to unlock the code by any unauthorized person.
 
+<p align="center">
+  <img width="" height="" src="https://user-images.githubusercontent.com/74399051/111662235-c2eeb480-8835-11eb-95ef-a30c651a81bc.png">
+</p>
 
 # Applications
     Home Security
